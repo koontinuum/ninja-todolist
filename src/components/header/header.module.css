@@ -1,0 +1,8 @@
+.header {
+  background: #f0f0f0;
+  border-bottom: 1px solid #8e8e8e;
+  border-radius: 5px 5px 0 0;
+  font-size: 24px;
+  font-weight: 600;
+  padding: 15px 10px;
+}
